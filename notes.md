@@ -27,5 +27,9 @@ Three step commiting process:
 
     git commit -m "My commit message"
 
+show history:
+-------------
+
+    git log
 
 
