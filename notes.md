@@ -18,8 +18,14 @@ Three step commiting process:
 -----------------------------
 
 *Make code changes
+
 *Ad code changes to the stage
+
     git add file_that_changed.rb
+
 *commit changes
+
     git commit -m "My commit message"
+
+
 
