@@ -1,4 +1,4 @@
-print "Coding is fun!!!"
+puts "Coding is fun!!!"
 
 puts "Hello There!!!"
 
