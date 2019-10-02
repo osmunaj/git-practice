@@ -1,3 +1,7 @@
 print "Coding is fun!!!"
 
-print "Hello There!!!"
+puts "Hello There!!!"
+
+
+
+puts "Goodbye!"
