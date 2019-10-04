@@ -32,4 +32,22 @@ show history:
 
     git log
 
+Putting changes on github:
+--------------------------
+
+    git push
+
+Cloning project onto an unused computer
+----------------------------------------
+
+    git clone + link_for_that_project_on_github
+
+Taking changes from github and updating them
+--------------------------------------------
+    git pull
+
+
+
+
+
 
